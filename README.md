@@ -24,5 +24,17 @@ The main goal of this project is to perform extensive Exploratory Data Analysis(
  #  UserInterface 
  
  ![Zomato Rating - Google Chrome 04-09-2021 04_22_16 PM (2)](https://user-images.githubusercontent.com/60504768/132092118-4777516f-a4ef-4ea5-8e10-8b7bf5c75f92.png)
+ 
+ 
+ # Technologies Used
+ 
+   1. Python 
+   2. Sklearn
+   3. Flask
+   4. Html
+   5. Css
+   6. Pandas, Numpy 
+
+
 
                           
