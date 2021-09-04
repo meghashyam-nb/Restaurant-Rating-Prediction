@@ -3,18 +3,18 @@ The main goal of this project is to perform extensive Exploratory Data Analysis(
 
 # Approach
 
-  Data Exploration     : I started exploring dataset using pandas,numpy,matplotlib and seaborn. 
+  *Data Exploration     : I started exploring dataset using pandas,numpy,matplotlib and seaborn. 
 
-  Data visualization   : Ploted graphs to get insights about dependend and independed variables. 
+  *Data visualization   : Ploted graphs to get insights about dependend and independed variables. 
 
-  Feature Engineering  :  Removed missing values and created new features as per insights.
+  *Feature Engineering  :  Removed missing values and created new features as per insights.
 
-  Model Selection I    :  1. Tested all base models to check the base accuracy.
+  *Model Selection I    :  1. Tested all base models to check the base accuracy.
                           2. Also ploted residual plot to check whether a model is a good fit or not.
 
-  Model Selection II   :  Performed Hyperparameter tuning using gridsearchCV and randomizedSearchCV.
+  *Model Selection II   :  Performed Hyperparameter tuning using gridsearchCV and randomizedSearchCV.
 
-  Pickle File          :  Selected model as per best accuracy and created pickle file using joblib .
+  *Pickle File          :  Selected model as per best accuracy and created pickle file using joblib .
   
-  Webpage & deployment :  Created a webform that takes all the necessary inputs from user and shows output.
+  *Webpage & deployment :  Created a webform that takes all the necessary inputs from user and shows output.
                           After that I have deployed project on heroku.
