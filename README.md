@@ -35,6 +35,12 @@ The main goal of this project is to perform extensive Exploratory Data Analysis(
    5. Css
    6. Pandas, Numpy 
 
+# HLD , LLD & WireFrame ,Detailed project Report, Architecture
 
+ link : https://drive.google.com/drive/folders/1dpOqQjvAKGkOcv8Vvwx-jP6PyLh_ickd
+ 
+# Help Me Improve
+
+Hello Reader if you find any bug please consider raising issue I will address them asap.
 
                           
